@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2 align="center">Hello Scripter's <img src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" height="25px"></h2>
 
-<!--
-**ChilluckerX/ChilluckerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+┌──(root@Aiman)-[~/]
+└─$ cat Aiman.rb
 
-Here are some ideas to get you started:
+class Aiman
+  def initialize
+    @Github = "https://github.com/Programmer321x"
+    @Discord = "aimannevertired#6836"
+  end
+  
+ ┌──(root@Aiman)-[~/]
+ └─$
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,powershell,bash,c,cs,cpp,ruby,js,php,mongodb,mysql,css,html" />
+  </a>
+</p>
+<h2 align="center"></h2>
+
+![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
